@@ -20,3 +20,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/59501938/154435387-fb0b92aa-a42d-4980-9467-13d8b20ca5c6.png)
+
+
+
+SQL QUERIES
+By opening f1Queries file in MSSQL you can try out the queries in database. 
