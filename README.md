@@ -23,5 +23,5 @@
 
 
 
-SQL QUERIES
+# SQL QUERIES
 By opening f1Queries file in MSSQL you can try out the queries in database. 
